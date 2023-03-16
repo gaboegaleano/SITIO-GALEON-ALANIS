@@ -1,0 +1,20 @@
+#logoAlanis {
+    margin-top: 50px;
+    margin-left: 300px;
+}
+
+h5{
+    margin-top: 30px;
+    margin-left: 600px;
+}
+
+#listaProductos{
+    padding-top: 50px;
+    padding-left: 230px;
+}
+
+footer{
+    margin-top: 150px;
+    text-align: center;
+    background-color: darkgrey;
+}

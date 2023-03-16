@@ -1,0 +1,20 @@
+#logoGaleon {
+    margin-top: 30px;
+    margin-left: 300px;
+}
+
+h5{
+    margin-top: 30px;
+    margin-left: 450px;
+}
+
+#listaProductos{
+    padding-top: 50px;
+    padding-left: 220px;
+}
+
+footer{
+    margin-top: 150px;
+    text-align: center;
+    background-color: darkgrey;
+}
